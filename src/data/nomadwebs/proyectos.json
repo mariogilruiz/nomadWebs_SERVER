@@ -1,0 +1,87 @@
+{
+  "header": {
+    "eyebrow": "Nuestra forma de crear",
+    "h1": "Ideas que convierten presencia online en negocio, marca y movimiento.",
+    "p": "Mas que mostrar trabajos, aqui se ve la forma en la que pienso: clara, util y pensada para personas que quieren construir algo con identidad y proposito.",
+    "h2": "Proyectos"
+  },
+  "cards": [
+    {
+      "type": "Comunidad digital",
+      "name": "Nomad Club",
+      "image": "/images/proyecto/comunidad_digital.jpg",
+      "description": "Una comunidad premium para freelancers y creadores que quieren conectar, vender y crecer sin depender de una sola plataforma."
+    },
+    {
+      "type": "Producto SaaS",
+      "name": "Creator OS",
+      "image": "/images/proyecto/producto_saas.jpg",
+      "description": "Dashboard para creadores digitales con gestion de clientes, contenido, reservas, pagos y automatizaciones simples."
+    },
+    {
+      "type": "Youtubers",
+      "name": "YouTube Growth",
+      "image": "/images/proyecto/youtubers.jpg",
+      "description": "Web y sistema de marca para creadores de video que quieren convertir su contenido en una presencia profesional y monetizable."
+    },
+    {
+      "type": "Instagramers",
+      "name": "Insta Brand",
+      "image": "/images/proyecto/intagramers.jpg",
+      "description": "Landing page enfocada en personal brand, servicios, productos y captacion de clientes desde Instagram."
+    },
+    {
+      "type": "Motoviajeros",
+      "name": "Travel Notes",
+      "image": "/images/proyecto/motoviajeros.jpg",
+      "description": "Plataforma de viajes, historias y recomendaciones con un enfoque visual cercano, util y muy personal."
+    },
+    {
+      "type": "Fotografos",
+      "name": "Lens Studio",
+      "image": "/images/proyecto/fotografos.jpg",
+      "description": "Portfolio editorial y comercial para fotografos que quieren vender sesiones, packs y trabajos con una imagen premium y clara."
+    },
+    {
+      "type": "E-commerce",
+      "name": "Nomad Shop",
+      "image": "/images/proyecto/e-commerce.jpg",
+      "description": "Tienda online para productos digitales o fisicos con narrativa de marca, catalogo atractivo y experiencia movil excelente."
+    },
+    {
+      "type": "Agencia / marca",
+      "name": "Studio Flow",
+      "image": "/images/proyecto/agencia-marca.jpg",
+      "description": "Idea de estudio creativo para presentar servicios, procesos y casos de exito con una identidad clara y premium."
+    },
+    {
+      "type": "Landing para negocio",
+      "name": "Remote Launch",
+      "image": "/images/proyecto/landing.jpg",
+      "description": "Web de lanzamiento para un servicio digital con estructura clara, CTA fuerte y flujo de conversion pensado para ventas."
+    },
+    {
+      "type": "Pack digital",
+      "name": "Nomad Kit",
+      "image": "/images/proyecto/producto_saas.jpg",
+      "description": "Estructura de contenido, funnels y paginas para profesionales que venden desde su marca personal y necesitan claridad."
+    },
+    {
+      "type": "Coaches / expertos",
+      "name": "Coach Launch",
+      "image": "/images/proyecto/landing.jpg",
+      "description": "Sitio para captar clientes, vender servicios y posicionar la experiencia de un coach o consultor con una propuesta clara."
+    },
+    {
+      "type": "Freelancers",
+      "name": "Freelance Menu",
+      "image": "/images/proyecto/agencia-marca.jpg",
+      "description": "Pagina para disenadores, copywriters o consultores que necesitan presentar servicios, precios y un flujo de contacto simple y profesional."
+    }
+  ],
+  "cta": {
+    "eyebrow": "Hablemos",
+    "h2": "Cuentame tu proyecto y hagamos realidad tu vision",
+    "button": "Contacta ahora"
+  }
+}

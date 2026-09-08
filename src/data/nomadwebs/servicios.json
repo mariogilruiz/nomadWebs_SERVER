@@ -1,0 +1,76 @@
+{
+  "header": {
+    "eyebrow": "Que ofrecemos",
+    "h1": "Te ayudamos a crear una presencia online clara, util y capaz de vender.",
+    "p": "Disenamos webs y apps para creadores digitales, freelancers, marcas personales y negocios que necesitan una presencia online potente, funcional y sin complicaciones tecnicas.",
+    "h2": "Servicios"
+  },
+  "services": [
+    {
+      "title": "Webs desde 50€/mes",
+      "text": "Tu presencia online activa, moderna y funcional sin invertir grandes cantidades por adelantado."
+    },
+    {
+      "title": "Apps y herramientas digitales",
+      "text": "Soluciones para gestionar clientes, procesos, reservas o contenidos desde una app adaptada a tu negocio."
+    },
+    {
+      "title": "Mantenimiento y evolucion",
+      "text": "Actualizamos tu web, la mejoramos y la mantenemos para que siempre este preparada para vender."
+    },
+    {
+      "title": "Branding y estrategia",
+      "text": "Disenamos tu marca, tono visual y mensajes para que tu presencia online te represente claro y premium."
+    },
+    {
+      "title": "E-commerce y ventas",
+      "text": "Tiendas y paginas pensadas para vender productos y servicios con una experiencia rapida y clara."
+    },
+    {
+      "title": "Soporte continuo",
+      "text": "Te ayudamos a mantener la web viva, actualizada y lista para crecer con tus necesidades."
+    }
+  ],
+  "cards": [
+    {
+      "h2": "Webs desde 50€/mes",
+      "p": "Tu presencia online activa, moderna y funcional sin invertir grandes cantidades por adelantado."
+    },
+    {
+      "h2": "Apps y herramientas digitales",
+      "p": "Soluciones para gestionar clientes, procesos, reservas o contenidos desde una app adaptada a tu negocio."
+    },
+    {
+      "h2": "Mantenimiento y evolucion",
+      "p": "Actualizamos tu web, la mejoramos y la mantenemos para que siempre este preparada para vender."
+    },
+    {
+      "h2": "Branding y estrategia",
+      "p": "Disenamos tu marca, tono visual y mensajes para que tu presencia online te represente claro y premium."
+    },
+    {
+      "h2": "E-commerce y ventas",
+      "p": "Tiendas y paginas pensadas para vender productos y servicios con una experiencia rapida y clara."
+    },
+    {
+      "h2": "Soporte continuo",
+      "p": "Te ayudamos a mantener la web viva, actualizada y lista para crecer con tus necesidades."
+    }
+  ],
+  "includes": {
+    "eyebrow": "Que incluye",
+    "h2": "Un plan pensado para lo que realmente necesitas.",
+    "items": [
+      "Diseno pensado para vender y captar clientes",
+      "Sin grandes inversiones iniciales",
+      "Mantenimiento practico y sin complicaciones",
+      "Webs listas para moviles, contenido y crecimiento"
+    ]
+  },
+  "customPlan": {
+    "eyebrow": "Plan especifico",
+    "h2": "Tambien podemos crear un plan hecho a medida para ti.",
+    "p": "Si tu proyecto necesita algo mas concreto, lo estudiamos y te proponemos una solucion adaptada a tu negocio, tus objetivos y tu ritmo de crecimiento.",
+    "cta": "Hablemos"
+  }
+}

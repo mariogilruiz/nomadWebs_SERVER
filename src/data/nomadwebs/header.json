@@ -1,0 +1,28 @@
+{
+  "brand": "NomadWebs",
+  "aria": {
+    "home": "Ir al inicio",
+    "mainNav": "Navegacion principal",
+    "mobileMenu": "Menu movil",
+    "openMenu": "Abrir menu"
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "/"
+    },
+    {
+      "label": "Servicios",
+      "href": "/servicios"
+    },
+    {
+      "label": "Proyectos",
+      "href": "/proyectos"
+    },
+    {
+      "label": "Contacto",
+      "href": "/contacto"
+    }
+  ],
+  "cta": "Reserva"
+}

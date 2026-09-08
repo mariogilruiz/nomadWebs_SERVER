@@ -1,0 +1,180 @@
+{
+  "site": {
+    "header": {
+      "brand": "NomadWebs",
+      "aria": {
+        "home": "Ir al inicio",
+        "mainNav": "Navegacion principal",
+        "mobileMenu": "Menu movil",
+        "openMenu": "Abrir menu"
+      },
+      "nav": [
+        {
+          "label": "Inicio",
+          "href": "/"
+        },
+        {
+          "label": "Servicios",
+          "href": "/servicios"
+        },
+        {
+          "label": "Proyectos",
+          "href": "/proyectos"
+        },
+        {
+          "label": "Contacto",
+          "href": "/contacto"
+        }
+      ],
+      "cta": "Reserva"
+    },
+    "footer": {
+      "eyebrow": "Digital studio",
+      "brand": "NomadWebs",
+      "location": "Ubicacion: Remoto • Europa • Latam",
+      "links": [
+        {
+          "label": "Enviar WhatsApp",
+          "href": "https://wa.me/34600000000"
+        },
+        {
+          "label": "Enviar email",
+          "href": "/contacto"
+        },
+        {
+          "label": "Contacto",
+          "href": "/contacto"
+        },
+        {
+          "label": "Politica de privacidad",
+          "href": "/politica-de-privacidad"
+        },
+        {
+          "label": "Politica de cookies",
+          "href": "/politica-de-cookies"
+        },
+        {
+          "label": "Aviso legal",
+          "href": "/aviso-legal"
+        }
+      ]
+    }
+  },
+  "heroSlider": [
+    {
+      "src": "/images/slider-hero-01.jpeg",
+      "alt": "Mujer meditando frente a montanas al amanecer",
+      "className": "object-center"
+    },
+    {
+      "src": "/images/slider-hero-02.jpeg",
+      "alt": "Viajera con mochila mirando un paisaje abierto",
+      "className": "object-right"
+    },
+    {
+      "src": "/images/slider-hero-03.jpeg",
+      "alt": "Persona trabajando de forma remota en un entorno natural",
+      "className": "object-left"
+    },
+    {
+      "src": "/images/slider-hero-04.jpeg",
+      "alt": "Escena de viaje con sensacion de libertad y movimiento",
+      "className": "object-right"
+    },
+    {
+      "src": "/images/slider-hero-05.jpeg",
+      "alt": "Paisaje inspirador para marca personal nomada",
+      "className": "object-right"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Para creadores digitales y nomadas",
+    "h1": "Tu web y tu presencia online mas facil que nunca",
+    "p": "Disenamos webs y apps para gente que trabaja online, vive con libertad y necesita una marca profesional sin grandes inversiones ni bloqueos tecnicos.",
+    "ctaPrimary": "Hablemos",
+    "ctaSecondary": "Ver servicios",
+    "pricing": {
+      "priceLabel": "Precio",
+      "priceValue": "Desde 30€/mes",
+      "idealLabel": "Ideal para",
+      "idealValue": "Creators, freelance y marcas personales"
+    }
+  },
+  "section01": {
+    "eyebrow": "Servicios",
+    "h2": "Soluciones digitales para vivir, vender y crear desde cualquier sitio.",
+    "cards": [
+      {
+        "heading": "Todo incluido",
+        "title": "Webs desde 30€/mes",
+        "text": "Hosting, dominios y mantenimiento incluidos para que no tengas que preocuparte por nada."
+      },
+      {
+        "heading": "Impacto creativo",
+        "title": "Branding y presencia",
+        "text": "Disenamos branding y presencia online que impacta y conecta con tu audiencia."
+      },
+      {
+        "heading": "Ultimas tecnologias",
+        "title": "Apps y herramientas",
+        "text": "Desarrollamos apps y herramientas modernas para optimizar tu presencia online."
+      }
+    ]
+  },
+  "section02": {
+    "eyebrow": "Proyectos",
+    "h2": "Ideas que convierten presencia online en negocio y marca.",
+    "items": [
+      "Youtubers",
+      "Instagramers",
+      "Fotografos",
+      "Motoviajeros",
+      "E-commerce",
+      "Freelancers"
+    ]
+  },
+  "section03": {
+    "eyebrow": "Como trabajamos",
+    "h2": "Un proceso claro para crear una presencia que te represente.",
+    "steps": [
+      "1. Te escuchamos y vemos tu negocio",
+      "2. Disenamos la estructura y mensajes",
+      "3. Construimos la web o app para vender",
+      "4. Te acompanamos y la mantenemos"
+    ]
+  },
+  "section04": {
+    "eyebrow": "Testimonios",
+    "quotes": [
+      {
+        "quote": "Pudimos dejar nuestra presencia online mucho mas clara y profesional en muy poco tiempo.",
+        "author": "Marta, creadora digital"
+      },
+      {
+        "quote": "La web nos ayudo a vender mejor y a mostrar nuestra marca sin depender de un gran equipo interno.",
+        "author": "Leo, coach freelance"
+      },
+      {
+        "quote": "Ahora tengo una web que se siente mas premium y me representa mucho mejor como marca personal.",
+        "author": "Clara, fotografa nomada"
+      },
+      {
+        "quote": "El proceso fue directo y sin complicaciones. En pocos dias ya teniamos una web lista para ensenar.",
+        "author": "Daniel, consultor remoto"
+      },
+      {
+        "quote": "Por fin tengo una presencia online coherente con lo que ofrezco y con el estilo de mi trabajo.",
+        "author": "Sofia, disenadora freelance"
+      },
+      {
+        "quote": "La marca se ve mas solida, mas humana y mucho mas alineada con el tipo de clientes que quiero atraer.",
+        "author": "Ivan, creador de contenido"
+      }
+    ]
+  },
+  "section05": {
+    "eyebrow": "Hablemos",
+    "h2": "Tu proxima web puede ser clara, bonita y efectiva.",
+    "cta": "Reserva una consulta"
+  }
+}

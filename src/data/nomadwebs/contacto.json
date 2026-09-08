@@ -1,0 +1,30 @@
+{
+  "header": {
+    "eyebrow": "Contacto",
+    "h1": "Hablemos de tu presencia online.",
+    "p": "Si eres creador digital, freelancer o nomada que quiere una web o app clara, profesional y facil de mantener, te ayudamos a darle forma a tu siguiente proyecto."
+  },
+  "info": {
+    "emailLabel": "Email",
+    "emailValue": "hola@nomadwebs.com",
+    "locationLabel": "Ubicacion",
+    "locationValue": "Remoto • Europa • Latam"
+  },
+  "form": {
+    "fields": {
+      "name": {
+        "label": "Nombre",
+        "placeholder": "Tu nombre"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "tuemail@email.com"
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Cuentanos sobre tu proyecto"
+      }
+    },
+    "submit": "Enviar mensaje"
+  }
+}
