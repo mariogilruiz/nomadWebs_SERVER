@@ -1,5 +1,6 @@
 //-----importaciones
 const express = require("express");
+const path = require("node:path");
 const { connectMongo } = require("./src/data/mongo");
 
 //-----rutas
@@ -11,6 +12,7 @@ const { applyCorsMiddleware } = require("./src/middlewares/corsMiddleware");
 const { defaultLimiter } = require("./src/middlewares/rateLimitMiddleware");
 const { healthRouter } = require("./src/api/routes/healthRoutes");
 const { contentRouter } = require("./src/api/routes/contentRoutes");
+const { assetsRouter } = require("./src/api/routes/assetsRoutes");
 
 //----- configuracion de la app
 const app = express();
@@ -26,7 +28,13 @@ applyCorsMiddleware(app);
 
 //-----endpoints
 
+app.use(
+  "/assets",
+  express.static(path.resolve(__dirname, "./src/data/assets")),
+);
+
 app.use(healthRouter);
+app.use(assetsRouter);
 app.use(contentRouter);
 
 async function startServer() {

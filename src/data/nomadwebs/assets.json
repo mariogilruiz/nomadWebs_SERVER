@@ -1,0 +1,51 @@
+{
+  "site": "nomadwebs",
+  "domain": "www.nomadwebs.com",
+  "logos": {
+    "primary": {
+      "src": "/assets/nomadwebs/logos/logo_primary_NW.png",
+      "alt": "Logo principal de NomadWebs",
+      "title": "NomadWebs"
+    },
+    "favicon": {
+      "src": "/assets/nomadwebs/logos/favicon.ico",
+      "type": "image/x-icon"
+    }
+  },
+  "sections": {
+    "home": {
+      "hero": {
+        "slider": [
+          {
+            "src": "/assets/nomadwebs/sections/home/slider-hero-01.jpeg",
+            "alt": "Mujer meditando frente a montañas al amanecer",
+            "className": "object-center"
+          },
+          {
+            "src": "/assets/nomadwebs/sections/home/slider-hero-02.jpeg",
+            "alt": "Viajera con mochila mirando un paisaje abierto",
+            "className": "object-right"
+          },
+          {
+            "src": "/assets/nomadwebs/sections/home/slider-hero-03.jpeg",
+            "alt": "Persona trabajando de forma remota en un entorno natural",
+            "className": "object-left"
+          },
+          {
+            "src": "/assets/nomadwebs/sections/home/slider-hero-04.jpeg",
+            "alt": "Escena de viaje con sensación de libertad y movimiento",
+            "className": "object-right"
+          },
+          {
+            "src": "/assets/nomadwebs/sections/home/slider-hero-05.jpeg",
+            "alt": "Paisaje inspirador para marca personal nómada",
+            "className": "object-right"
+          }
+        ]
+      }
+    },
+    "servicios": {},
+    "proyectos": {},
+    "contacto": {}
+  }
+}
