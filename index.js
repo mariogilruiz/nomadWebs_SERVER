@@ -30,7 +30,11 @@ applyCorsMiddleware(app);
 
 app.use(
   "/assets",
-  express.static(path.resolve(__dirname, "./src/data/assets")),
+  express.static(path.resolve(__dirname, "./src/data/assets"), {
+    setHeaders(res) {
+      res.setHeader("Cross-Origin-Resource-Policy", "cross-origin");
+    },
+  }),
 );
 
 app.use(healthRouter);

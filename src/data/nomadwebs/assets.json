@@ -5,15 +5,22 @@
     "primary": {
       "src": "/assets/nomadwebs/logos/logo_primary_NW.png",
       "alt": "Logo principal de NomadWebs",
+      "className": "",
       "title": "NomadWebs"
     },
     "favicon": {
       "src": "/assets/nomadwebs/logos/favicon.ico",
+      "className": "",
       "type": "image/x-icon"
     }
   },
   "sections": {
     "home": {
+      "background": {
+        "src": "/assets/nomadwebs/sections/home/image-paralax-home.jpeg",
+        "alt": "Fondo parallax de la home",
+        "className": ""
+      },
       "hero": {
         "slider": [
           {
@@ -44,8 +51,71 @@
         ]
       }
     },
-    "servicios": {},
-    "proyectos": {},
-    "contacto": {}
+    "servicios": {
+      "background": {
+        "src": "/assets/nomadwebs/sections/servicios/image-paralax-servicios.jpg",
+        "alt": "Fondo parallax de la seccion de servicios",
+        "className": ""
+      }
+    },
+    "proyectos": {
+      "background": {
+        "src": "/assets/nomadwebs/sections/proyectos/image-paralax-proyectos.jpg",
+        "alt": "Fondo parallax de la seccion de proyectos",
+        "className": ""
+      },
+      "images": [
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/agencia-marca.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/coaches_expertos.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/comunidad_digital.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/e-commerce.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/fotografos.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/freelancers.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/intagramers.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/landing.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/motoviajeros.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/pack_digital.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/producto_saas.jpg"
+        },
+        {
+          "src": "/assets/nomadwebs/sections/proyectos/youtubers.jpg"
+        }
+      ]
+    },
+    "contacto": {
+      "background": {
+        "src": "/assets/nomadwebs/sections/contacto/image-paralax-contacto.jpg",
+        "alt": "Fondo parallax de la seccion de contacto",
+        "className": ""
+      }
+    },
+    "legal": {
+      "background": {
+        "src": "/assets/nomadwebs/sections/legal/image-paralax-legal.jpg",
+        "alt": "Fondo parallax de la seccion legal",
+        "className": ""
+      }
+    }
   }
 }

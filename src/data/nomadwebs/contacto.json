@@ -13,12 +13,16 @@
   "form": {
     "fields": {
       "name": {
-        "label": "Nombre",
+        "label": "Nombre*",
         "placeholder": "Tu nombre"
       },
       "email": {
-        "label": "Email",
+        "label": "Email*",
         "placeholder": "tuemail@email.com"
+      },
+      "telefono": {
+        "label": "Telefono",
+        "placeholder": "tutelefono"
       },
       "message": {
         "label": "Mensaje",
