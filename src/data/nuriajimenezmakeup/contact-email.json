@@ -1,0 +1,14 @@
+{
+  "siteSlug": "nuriajimenezmakeup",
+  "siteName": "Nuria Jimenez Makeup",
+  "siteDomain": "nuriajimenezmakeup.com",
+  "fromName": "Nuria Jimenez Makeup",
+  "fromEmail": null,
+  "replyToEmail": "fullkandfly@gmail.com",
+  "toEmail": "fullkandfly@gmail.com",
+  "autoReplyEnabled": true,
+  "subjectPrefix": "[Nuria Jimenez Makeup]",
+  "template": "contact-basic",
+  "enabled": true,
+  "notes": "Base temporal para la primera web. Sustituir credenciales y dominio real cuando toque."
+}

@@ -13,6 +13,7 @@ const { defaultLimiter } = require("./src/middlewares/rateLimitMiddleware");
 const { healthRouter } = require("./src/api/routes/healthRoutes");
 const { contentRouter } = require("./src/api/routes/contentRoutes");
 const { assetsRouter } = require("./src/api/routes/assetsRoutes");
+const { contactRouter } = require("./src/api/routes/contactRoutes");
 
 //----- configuracion de la app
 const app = express();
@@ -40,6 +41,7 @@ app.use(
 app.use(healthRouter);
 app.use(assetsRouter);
 app.use(contentRouter);
+app.use(contactRouter);
 
 async function startServer() {
   try {
