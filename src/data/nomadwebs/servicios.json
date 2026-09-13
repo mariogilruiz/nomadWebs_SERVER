@@ -7,7 +7,7 @@
   },
   "services": [
     {
-      "title": "Webs desde 50€/mes",
+      "title": "Webs desde 30€/mes",
       "text": "Tu presencia online activa, moderna y funcional sin invertir grandes cantidades por adelantado."
     },
     {
@@ -33,7 +33,7 @@
   ],
   "cards": [
     {
-      "h2": "Webs desde 50€/mes",
+      "h2": "Webs desde 30€/mes",
       "p": "Tu presencia online activa, moderna y funcional sin invertir grandes cantidades por adelantado."
     },
     {
@@ -61,10 +61,125 @@
     "eyebrow": "Que incluye",
     "h2": "Un plan pensado para lo que realmente necesitas.",
     "items": [
-      "Diseno pensado para vender y captar clientes",
-      "Sin grandes inversiones iniciales",
-      "Mantenimiento practico y sin complicaciones",
-      "Webs listas para moviles, contenido y crecimiento"
+      "Videos llamadas necesarias hasta completar tu proyecto",
+      "Mantenimiento continuo y adaptado a tus necesidades",
+      "Webs optimizadas para SEO y rendimiento",
+      "Soporte continuo para tu web y proyectos digitales",
+      "Branding y estrategia para tu presencia online",
+      "Dominio y hosting incluidos para tu web",
+      "Proyectos escalables y adaptados a tu crecimiento",
+      "webs con Diseño Responsivo y adaptado a todos los dispositivos"
+    ]
+  },
+
+  "plansMonthly": {
+    "eyebrow": "Tarifas mensuales",
+    "h2": "Te ayudamos a crear una presencia online clara, util y capaz de vender.",
+    "description": "Disenamos webs y apps para creadores digitales, freelancers, marcas personales y negocios que necesitan una presencia online potente, funcional y sin complicaciones tecnicas.",
+
+    "plans": [
+      {
+        "name": "Plan Presencia",
+        "subtitle": "Ideal para profesionales y pequenos negocios que necesitan existir en internet con una imagen impecable.",
+        "price": "30EUR / mes",
+        "featured": false,
+        "includes": [
+          "Sesion de arranque: 1 videollamada inicial de hasta 30 minutos.",
+          "Diseno responsivo para movil, tablet y ordenador.",
+          "Dominio y hosting incluidos mientras mantengas la suscripcion.",
+          "SEO base con estructura preparada para Google.",
+          "SSL y copias de seguridad mensuales.",
+          "Soporte tecnico por email tras la entrega."
+        ]
+      },
+      {
+        "name": "Plan Crecimiento",
+        "subtitle": "Perfecto para empresas en expansion que quieren delegar la gestion tecnica y actualizar su web periodicamente.",
+        "price": "60EUR / mes",
+        "featured": true,
+        "includes": [
+          "Todo lo incluido en Plan Presencia.",
+          "Mantenimiento mensual con hasta 1 hora de cambios.",
+          "Soporte preferente por WhatsApp y email en menos de 24h laborables.",
+          "1 videollamada de seguimiento mensual de 20 minutos.",
+          "SEO local para Google Business Profile."
+        ]
+      },
+      {
+        "name": "Plan Lider / Premium",
+        "subtitle": "Para empresas que buscan una transformacion digital completa, desde su identidad hasta una web totalmente a medida.",
+        "price": "99EUR / mes",
+        "featured": false,
+        "includes": [
+          "Todo lo incluido en Plan Crecimiento.",
+          "Branding y estrategia: identidad visual basica, paleta y adaptacion de logotipo.",
+          "Videollamadas semanales durante la fase de desarrollo.",
+          "Mantenimiento continuo con hasta 4 horas mensuales.",
+          "SEO avanzado con estudio de palabras clave y optimizacion mensual."
+        ]
+      }
+    ],
+    "planComparison": [
+      {
+        "feature": "Sesion de arranque (30 min)",
+        "presencia": "Si",
+        "crecimiento": "Si",
+        "premium": "Si"
+      },
+      {
+        "feature": "Diseno responsivo (movil y PC)",
+        "presencia": "Si",
+        "crecimiento": "Si",
+        "premium": "Si"
+      },
+      {
+        "feature": "Dominio y hosting incluido",
+        "presencia": "Si",
+        "crecimiento": "Si",
+        "premium": "Si"
+      },
+      {
+        "feature": "Optimizacion SEO basica",
+        "presencia": "Si",
+        "crecimiento": "Si",
+        "premium": "Si"
+      },
+      {
+        "feature": "Soporte tecnico",
+        "presencia": "Solo email",
+        "crecimiento": "WhatsApp y email",
+        "premium": "Preferente 24h"
+      },
+      {
+        "feature": "Mantenimiento mensual",
+        "presencia": "No (20€ / h)",
+        "crecimiento": "2 hora / mes",
+        "premium": "4 horas / mes"
+      },
+      {
+        "feature": "Videollamadas de seguimiento",
+        "presencia": "No",
+        "crecimiento": "1 al mes (20 min)",
+        "premium": "Semanales"
+      },
+      {
+        "feature": "SEO local (Google Maps)",
+        "presencia": "No",
+        "crecimiento": "Si",
+        "premium": "Si"
+      },
+      {
+        "feature": "Branding y estrategia de marca",
+        "presencia": "No",
+        "crecimiento": "No",
+        "premium": "Si"
+      },
+      {
+        "feature": "SEO avanzado y competencia",
+        "presencia": "No",
+        "crecimiento": "No",
+        "premium": "Si"
+      }
     ]
   },
   "customPlan": {

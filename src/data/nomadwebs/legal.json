@@ -3,34 +3,34 @@
     "eyebrow": "Legal",
     "h1": "Aviso legal",
     "paragraphs": [
-      "El presente aviso legal regula el uso de la web de NomadWebs, destinada a la presentacion de servicios digitales, diseno web, branding y soluciones para creadores, profesionales y negocios.",
-      "El contenido de esta web tiene caracter informativo y se ofrece con fines generales. NomadWebs puede modificar, actualizar o eliminar contenido sin previo aviso, siempre que lo considere necesario para mantener la calidad y relevancia del sitio.",
-      "El usuario se compromete a utilizar la web de forma licita y a no realizar actividades que puedan danar, deshabilitar o afectar al funcionamiento del sitio, sus servicios o la experiencia de otros usuarios.",
-      "La titularidad intelectual de los textos, disenos, graficos y demas contenidos del sitio corresponde a NomadWebs o a sus autores autorizados, salvo que se indique lo contrario.",
-      "En caso de que el usuario contacte a traves del formulario, se entendera que ha proporcionado datos voluntariamente para atender su consulta o proyecto, y que acepta la politica de privacidad y la comunicacion relacionada con la gestion del servicio solicitado."
+      "El presente aviso legal regula el uso de la web de NomadWebs y los servicios de diseno web, branding, estrategia digital, desarrollo y mantenimiento que se ofrecen a traves de esta plataforma.",
+      "NomadWebs presta estos servicios bajo un modelo de gestion y mantenimiento digital, en el que la web se ofrece como parte del servicio contratado. Durante la vigencia del contrato y mientras el cliente mantenga el pago correspondiente, puede hacer uso de la web y del contenido asociado.",
+      "La web no se considera un bien adquirido en propiedad definitiva, sino un servicio asociado a la prestacion de alojamiento, gestion, mantenimiento y soporte digital. En caso de impago, incumplimiento del contrato o cancelacion del servicio por cualquier causa prevista, NomadWebs puede suspender o retirar la web de la red y dejarla temporalmente inaccesible, conforme a la normativa aplicable y al acuerdo establecido con el cliente.",
+      "El contenido publicado en esta web, incluidos textos, disenos, graficos, imagenes y elementos visuales, es propiedad de NomadWebs o de sus autores autorizados, salvo que se indique lo contrario. Queda prohibida su reproduccion, distribucion o reutilizacion sin autorizacion previa.",
+      "El usuario se compromete a utilizar la web de forma licita y responsable, sin interferir con su correcto funcionamiento, la experiencia de otros usuarios ni la integridad de los servicios prestados. En caso de contacto a traves del formulario, se entendera que se facilitan datos de forma voluntaria para gestionar la consulta o el proyecto solicitado."
     ]
   },
   "politicaPrivacidad": {
     "eyebrow": "Legal",
     "h1": "Politica de privacidad",
     "paragraphs": [
-      "En NomadWebs tratamos los datos personales con la maxima responsabilidad y solo para prestar nuestros servicios, gestionar la relacion comercial y mejorar la experiencia del usuario.",
-      "Podemos recoger informacion como nombre, correo electronico, datos de contacto, informacion del proyecto o cualquier dato que el usuario nos facilite voluntariamente a traves del formulario de contacto o por correo electronico.",
-      "Los datos se utilizan para responder consultas, preparar propuestas, gestionar proyectos, enviar comunicaciones relacionadas con la prestacion del servicio y cumplir con obligaciones legales.",
-      "No compartiremos tus datos con terceros salvo que exista una obligacion legal, un encargo necesario para la ejecucion del servicio o consentimiento explicito del usuario.",
-      "El usuario puede solicitar en cualquier momento el acceso, rectificacion, eliminacion o limitacion del tratamiento de sus datos, asi como oponerse a determinados usos.",
-      "Esta web puede utilizar cookies y tecnologias similares para mejorar la navegacion, analizar el uso del sitio y facilitar la experiencia. Mas informacion en la Politica de cookies."
+      "NomadWebs trata los datos personales con la maxima responsabilidad y solo para gestionar consultas, preparar propuestas, atender proyectos y ofrecer los servicios contratados por el cliente.",
+      "Podemos recoger informacion como nombre, correo electronico, telefono, informacion del proyecto o cualquier dato que el usuario nos facilite de forma voluntaria a traves del formulario de contacto, correo electronico u otros canales de comunicacion.",
+      "Los datos se utilizan para responder consultas, formalizar presupuestos, gestionar proyectos, mantener la relacion comercial y cumplir con obligaciones legales derivadas de la prestacion del servicio.",
+      "No compartiremos tus datos con terceros salvo que exista una obligacion legal, una necesidad para la ejecucion del servicio o el consentimiento explicito del usuario.",
+      "El usuario puede solicitar en cualquier momento el acceso, rectificacion, limitacion, oposicion o eliminacion de sus datos, asi como obtener informacion sobre el tratamiento realizado. Para ello puede contactarnos a traves de los canales indicados en la web.",
+      "Esta web puede utilizar cookies y tecnologias similares para mejorar la navegacion, analizar el uso del sitio y optimizar la experiencia del usuario. Mas informacion en la politica de cookies."
     ]
   },
   "politicaCookies": {
     "eyebrow": "Legal",
     "h1": "Politica de cookies",
     "paragraphs": [
-      "NomadWebs utiliza cookies para mejorar la navegacion, recordar preferencias, analizar el trafico del sitio y ofrecer una mejor experiencia a los usuarios.",
-      "Las cookies pueden ser de sesion, persistentes, tecnicas y de analisis. Las cookies tecnicas son necesarias para el correcto funcionamiento de la web, mientras que las cookies de analisis nos ayudan a entender como se usa el sitio y mejorar su contenido.",
-      "El usuario puede aceptar, rechazar o configurar cookies desde la configuracion de su navegador. En caso de deshabilitarlas, algunas funciones de la web pueden verse limitadas.",
-      "Tambien podemos usar servicios de terceros para analisis estadistico o metricas de rendimiento, siempre con fines tecnicos y de mejora de la experiencia.",
-      "Al continuar navegando por esta web, el usuario acepta el uso de cookies conforme a la configuracion del navegador y a esta politica."
+      "NomadWebs utiliza cookies para mejorar la navegacion, recordar preferencias, analizar el trafico del sitio y ofrecer una experiencia mas segura y funcional a los usuarios.",
+      "Las cookies pueden ser tecnicas, de sesion, persistentes o de analisis. Las cookies tecnicas son necesarias para garantizar el correcto funcionamiento de la web, mientras que las cookies de analisis nos ayudan a comprender como se usa la web y mejorar su rendimiento.",
+      "El usuario puede aceptar, rechazar o configurar cookies desde la configuracion de su navegador. En caso de deshabilitarlas, algunas funciones de la web pueden verse limitadas o su experiencia puede verse reducida.",
+      "Tambien podemos usar servicios de terceros para analisis estadistico y metricas de rendimiento, siempre con fines tecnicos y de mejora de la experiencia del usuario.",
+      "Al continuar navegando por esta web, el usuario acepta el uso de cookies conforme a la configuracion de su navegador y a la presente politica."
     ]
   }
 }

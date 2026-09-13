@@ -14,15 +14,15 @@
     "fields": {
       "name": {
         "label": "Nombre*",
-        "placeholder": "Tu nombre"
+        "placeholder": "Mi nombre"
       },
       "email": {
         "label": "Email*",
-        "placeholder": "tuemail@email.com"
+        "placeholder": "email@email.com"
       },
       "telefono": {
         "label": "Telefono",
-        "placeholder": "tutelefono"
+        "placeholder": "600000000"
       },
       "message": {
         "label": "Mensaje",
