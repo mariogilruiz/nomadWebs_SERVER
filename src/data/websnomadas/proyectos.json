@@ -1,111 +1,111 @@
 {
   "header": {
     "eyebrow": "Nuestra forma de crear",
-    "h1": "Ideas que convierten presencia online en negocio, marca y movimiento.",
-    "p": "Mas que mostrar trabajos, aqui se ve la forma en la que pienso: clara, util y pensada para personas que quieren construir algo con identidad y proposito.",
+    "h1": "Portafolio de Proyectos y Soluciones Digitales",
+    "p": "Más que mostrar trabajos, aquí se ve la forma en la que pienso: clara, útil y pensada para personas que quieren construir algo con identidad y propósito.",
     "h2": "Proyectos"
   },
   "cards": [
     {
       "type": "Comunidad digital",
       "name": "Nomad Club",
-      "src": "/assets/nomadwebs/sections/proyectos/comunidad_digital.jpg",
-      "alt": "Proyecto de comunidad digital",
+      "src": "/assets/websnomadas/sections/proyectos/comunidad_digital.jpg",
+      "alt": "Diseño de plataforma web para comunidad digital Nomad Club",
       "className": "",
       "description": "Una comunidad premium para freelancers y creadores que quieren conectar, vender y crecer sin depender de una sola plataforma."
     },
     {
       "type": "Producto SaaS",
       "name": "Creator OS",
-      "src": "/assets/nomadwebs/sections/proyectos/producto_saas.jpg",
-      "alt": "Proyecto de producto SaaS",
+      "src": "/assets/websnomadas/sections/proyectos/producto_saas.jpg",
+      "alt": "Interfaz de software SaaS de gestión Creator OS",
       "className": "",
       "description": "Dashboard para creadores digitales con gestion de clientes, contenido, reservas, pagos y automatizaciones simples."
     },
     {
       "type": "Youtubers",
       "name": "YouTube Growth",
-      "src": "/assets/nomadwebs/sections/proyectos/youtubers.jpg",
-      "alt": "Proyecto para youtubers",
+      "src": "/assets/websnomadas/sections/proyectos/youtubers.jpg",
+      "alt": "Página web a medida optimizada para creadores de YouTube y vídeo",
       "className": "",
       "description": "Web y sistema de marca para creadores de video que quieren convertir su contenido en una presencia profesional y monetizable."
     },
     {
       "type": "Instagramers",
       "name": "Insta Brand",
-      "src": "/assets/nomadwebs/sections/proyectos/intagramers.jpg",
-      "alt": "Proyecto para creadores de Instagram",
+      "src": "/assets/websnomadas/sections/proyectos/intagramers.jpg",
+      "alt": "Landing page de alta conversión para creadores de Instagram e influencers",
       "className": "",
       "description": "Landing page enfocada en personal brand, servicios, productos y captacion de clientes desde Instagram."
     },
     {
       "type": "Motoviajeros",
       "name": "Travel Notes",
-      "src": "/assets/nomadwebs/sections/proyectos/motoviajeros.jpg",
-      "alt": "Proyecto para motoviajeros",
+      "src": "/assets/websnomadas/sections/proyectos/motoviajeros.jpg",
+      "alt": "Diseño de blog de viajes y plataforma digital para motoviajeros",
       "className": "",
       "description": "Plataforma de viajes, historias y recomendaciones con un enfoque visual cercano, util y muy personal."
     },
     {
       "type": "Fotografos",
       "name": "Lens Studio",
-      "src": "/assets/nomadwebs/sections/proyectos/fotografos.jpg",
-      "alt": "Proyecto para fotografos",
+      "src": "/assets/websnomadas/sections/proyectos/fotografos.jpg",
+      "alt": "Portafolio web premium y galería digital para fotógrafos profesionales",
       "className": "",
       "description": "Portfolio editorial y comercial para fotografos que quieren vender sesiones, packs y trabajos con una imagen premium y clara."
     },
     {
       "type": "E-commerce",
       "name": "Nomad Shop",
-      "src": "/assets/nomadwebs/sections/proyectos/e-commerce.jpg",
-      "alt": "Proyecto de comercio electronico",
+      "src": "/assets/websnomadas/sections/proyectos/e-commerce.jpg",
+      "alt": "Diseño de tienda online y comercio electrónico responsive Nomad Shop",
       "className": "",
       "description": "Tienda online para productos digitales o fisicos con narrativa de marca, catalogo atractivo y experiencia movil excelente."
     },
     {
       "type": "Agencia / marca",
       "name": "Studio Flow",
-      "src": "/assets/nomadwebs/sections/proyectos/agencia-marca.jpg",
-      "alt": "Proyecto de agencia o marca",
+      "src": "/assets/websnomadas/sections/proyectos/agencia-marca.jpg",
+      "alt": "Página web corporativa para agencia creativa y branding Studio Flow",
       "className": "",
       "description": "Idea de estudio creativo para presentar servicios, procesos y casos de exito con una identidad clara y premium."
     },
     {
       "type": "Landing para negocio",
       "name": "Remote Launch",
-      "src": "/assets/nomadwebs/sections/proyectos/landing.jpg",
-      "alt": "Proyecto tipo landing page",
+      "src": "/assets/websnomadas/sections/proyectos/landing.jpg",
+      "alt": "Diseño de landing page interactiva optimizada para captar clientes",
       "className": "",
       "description": "Web de lanzamiento para un servicio digital con estructura clara, CTA fuerte y flujo de conversion pensado para ventas."
     },
     {
       "type": "Pack digital",
       "name": "Nomad Kit",
-      "src": "/assets/nomadwebs/sections/proyectos/pack_digital.jpg",
-      "alt": "Proyecto de pack digital",
+      "src": "/assets/websnomadas/sections/proyectos/pack_digital.jpg",
+      "alt": "Embudo de ventas y páginas de servicios para marca personal digital",
       "className": "",
       "description": "Estructura de contenido, funnels y paginas para profesionales que venden desde su marca personal y necesitan claridad."
     },
     {
       "type": "Coaches / expertos",
       "name": "Coach Launch",
-      "src": "/assets/nomadwebs/sections/proyectos/coaches_expertos.jpg",
-      "alt": "Proyecto para coaches y expertos",
+      "src": "/assets/websnomadas/sections/proyectos/coaches_expertos.jpg",
+      "alt": "Diseño de página web estratégica para coaches y consultores remotos",
       "className": "",
       "description": "Sitio para captar clientes, vender servicios y posicionar la experiencia de un coach o consultor con una propuesta clara."
     },
     {
       "type": "Freelancers",
       "name": "Freelance Menu",
-      "src": "/assets/nomadwebs/sections/proyectos/freelancers.jpg",
-      "alt": "Proyecto para freelancers",
+      "src": "/assets/websnomadas/sections/proyectos/freelancers.jpg",
+      "alt": "Sitio web de servicios y portafolio para trabajadores independientes",
       "className": "",
       "description": "Pagina para disenadores, copywriters o consultores que necesitan presentar servicios, precios y un flujo de contacto simple y profesional."
     }
   ],
   "cta": {
     "eyebrow": "Hablemos",
-    "h2": "Cuentame tu proyecto y hagamos realidad tu vision",
-    "button": "Contacta ahora"
+    "h2": "¿Tienes una idea en mente? Hagamos realidad tu visión",
+    "button": "Contactar ahora"
   }
 }

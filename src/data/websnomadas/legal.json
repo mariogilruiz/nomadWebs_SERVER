@@ -1,0 +1,36 @@
+{
+  "avisoLegal": {
+    "eyebrow": "Legal",
+    "h1": "Aviso legal",
+    "paragraphs": [
+      "El presente aviso legal regula el uso de la web de NomadWebs y los servicios de diseño web, branding, estrategia digital, desarrollo y mantenimiento que se ofrecen a través de esta plataforma.",
+      "NomadWebs presta estos servicios bajo un modelo de gestión y mantenimiento digital, en el que la web se ofrece como parte del servicio contratado. Durante la vigencia del contrato y mientras el cliente mantenga el pago correspondiente, puede hacer uso de la web y del contenido asociado.",
+      "La web no se considera un bien adquirido en propiedad definitiva, sino un servicio asociado a la prestación de alojamiento, gestión, mantenimiento y soporte digital. En caso de impago, incumplimiento del contrato o cancelación del servicio por cualquier causa prevista, NomadWebs puede suspender o retirar la web de la red y dejarla temporalmente inaccesible, conforme a la normativa aplicable y al acuerdo establecido con el cliente.",
+      "El contenido publicado en esta web, incluidos textos, diseños, gráficos, imágenes y elementos visuales, es propiedad de NomadWebs o de sus autores autorizados, salvo que se indique lo contrario. Queda prohibida su reproducción, distribución o reutilización sin autorización previa.",
+      "El usuario se compromete a utilizar la web de forma lícita y responsable, sin interferir con su correcto funcionamiento, la experiencia de otros usuarios ni la integridad de los servicios prestados. En caso de contacto a través del <a href='/contacto'>formulario de contacto</a>, se entenderá que se facilitan datos de forma voluntaria para gestionar la consulta o el proyecto solicitado conforme a nuestra <a href='/politica-de-privacidad'>política de privacidad</a>."
+    ]
+  },
+  "politicaPrivacidad": {
+    "eyebrow": "Legal",
+    "h1": "Política de privacidad",
+    "paragraphs": [
+      "NomadWebs trata los datos personales con la máxima responsabilidad y solo para gestionar consultas, preparar propuestas, atender proyectos y ofrecer los servicios contratados por el cliente.",
+      "Podemos recoger información como nombre, correo electrónico, teléfono, información del proyecto o cualquier dato que el usuario nos facilite de forma voluntaria a través de nuestro <a href='/contacto'>formulario de contacto</a>, correo electrónico u otros canales de comunicación oficiales.",
+      "Los datos se utilizan exclusivamente para responder consultas, formalizar presupuestos, gestionar proyectos, mantener la relación comercial y cumplir con las obligaciones legales derivadas de la prestación del servicio.",
+      "No compartiremos tus datos con terceros salvo que exista una obligación legal, una necesidad estricta para la ejecución del servicio o el consentimiento explícito del usuario.",
+      "El usuario puede solicitar en cualquier momento el acceso, rectificación, limitación, oposición o eliminación de sus datos, así como obtener información sobre el tratamiento realizado. Para ello, puede escribirnos directamente a los canales indicados en el <a href='/contacto'>apartado de contacto</a> de la web.",
+      "Esta página web no utiliza cookies de rastreo ni almacena información analítica de comportamiento del usuario, garantizando una navegación completamente limpia, privada y segura."
+    ]
+  },
+  "politicaCookies": {
+    "eyebrow": "Legal",
+    "h1": "Política de cookies",
+    "paragraphs": [
+      "En NomadWebs creemos firmemente que internet debería ser un espacio de libre circulación, privacidad y respeto. Por eso, hemos tomado una decisión radical en los tiempos que corren: **esta página web no utiliza absolutamente ninguna cookie de rastreo, analítica invasiva o publicidad**.",
+      "Estamos profundamente en contra de la persecución constante a la que se somete a los usuarios en la red, donde cada clic se monitoriza y cada visita se convierte en mercancía. No queremos rastrearte, no queremos espiar tu comportamiento ni nos interesa vender tus hábitos de navegación a terceras empresas.",
+      "Defendemos tu derecho a explorar la web con total soberanía y tranquilidad. Al no utilizar cookies, te ahorramos el molesto e hipócrita cartel de 'Aceptar o Rechazar' que inunda las pantallas de todo el mundo, arruina el diseño y ralentiza la carga. Aquí vienes a ver soluciones digitales, no a rellenar burocracia.",
+      "Nuestra infraestructura en Next.js está optimizada para ofrecerte una experiencia ultra rápida, limpia y segura basándose únicamente en el código, sin necesidad de dejar migajas en tu navegador. Navega libre, navega seguro y disfruta de la web tal y como debería ser siempre.",
+      "Si tienes cualquier duda sobre nuestra filosofía de privacidad o quieres crear una web igual de limpia y libre de rastreadores para tu propio negocio, puedes escribirnos directamente a través de nuestro <a href='/contacto'>formulario de contacto</a>."
+    ]
+  }
+}

@@ -69,6 +69,7 @@ async function sendContactController(req, res) {
 
   try {
     const leadInfo = await sendContactEmail({
+      siteSlug: siteConfig.siteSlug || rawSite,
       fromName: siteConfig.fromName,
       fromEmail: siteConfig.fromEmail,
       toEmail: siteConfig.toEmail,
@@ -83,6 +84,7 @@ async function sendContactController(req, res) {
 
     if (siteConfig.autoReplyEnabled !== false) {
       autoReplyInfo = await sendContactEmail({
+        siteSlug: siteConfig.siteSlug || rawSite,
         fromName: siteConfig.fromName,
         fromEmail: siteConfig.fromEmail,
         toEmail: email,

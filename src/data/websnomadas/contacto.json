@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Contacto y Presupuesto de Diseño Web | websNomadas",
+    "description": "¡Hablemos de tu próximo proyecto digital! Solicita tu presupuesto de diseño web para creadores, freelancers y nómadas digitales. Respuesta en menos de 24 horas."
+  },
+  "header": {
+    "eyebrow": "Contacto",
+    "h1": "Contacto y Presupuesto para tu Próxima Página Web",
+    "p": "Si eres creador digital, freelancer o nómada que quiere una web o aplicación clara, profesional y fácil de mantener, te ayudamos a darle forma a tu siguiente proyecto.",
+    "subheading": "Hablemos de tu presencia online sin complicaciones técnicas."
+  },
+  "info": {
+    "emailLabel": "Correo electrónico",
+    "emailValue": "info@websnomadas.com",
+    "locationLabel": "Ubicación",
+    "locationValue": "Remoto • Europa • Latam"
+  },
+  "form": {
+    "fields": {
+      "name": {
+        "label": "Nombre*",
+        "placeholder": "Introduce tu nombre"
+      },
+      "email": {
+        "label": "Email*",
+        "placeholder": "tu@email.com"
+      },
+      "telefono": {
+        "label": "Teléfono",
+        "placeholder": "Ej: +34 600 000 000"
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Cuéntanos sobre tu proyecto, objetivos o el plan que te interesa..."
+      }
+    },
+    "submit": "Enviar mensaje y comenzar"
+  }
+}

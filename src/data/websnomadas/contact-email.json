@@ -1,0 +1,14 @@
+{
+  "siteSlug": "websnomadas",
+  "siteName": "websnomadas",
+  "siteDomain": "www.websnomadas.com",
+  "fromName": "websnomadas",
+  "fromEmail": null,
+  "replyToEmail": "info@websnomadas.com",
+  "toEmail": "info@websnomadas.com",
+  "autoReplyEnabled": true,
+  "subjectPrefix": "[websnomadas]",
+  "template": "contact-basic",
+  "enabled": true,
+  "notes": "Base temporal para la primera web. Sustituir credenciales y dominio real cuando toque."
+}

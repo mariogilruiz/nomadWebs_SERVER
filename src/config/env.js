@@ -40,10 +40,7 @@ const env = {
   smtpHost: process.env.SMTP_HOST || "smtp.ionos.es",
   smtpPort: toPositiveNumber(process.env.SMTP_PORT, 587),
   smtpSecure: process.env.SMTP_SECURE === "true",
-  smtpUser: process.env.SMTP_USER || process.env.EMAIL_USER || null,
-  smtpPass: process.env.SMTP_PASS || process.env.EMAIL_PASSWORD || null,
   smtpFromName: process.env.SMTP_FROM_NAME || "NomadWebs",
-  smtpFromEmail: process.env.SMTP_FROM_EMAIL || process.env.EMAIL_USER || null,
 };
 
 module.exports = {

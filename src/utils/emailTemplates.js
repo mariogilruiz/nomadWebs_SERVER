@@ -12,18 +12,18 @@ function normalizeMessage(value) {
 }
 
 function buildContactEmailTemplate({ siteName, siteDomain, formData = {} }) {
-  const safeSiteName = escapeHtml(siteName || "NomadWebs");
-  const safeSiteDomain = escapeHtml(siteDomain || "nomadwebs.com");
+  const safeSiteName = escapeHtml(siteName || "websnomadas");
+  const safeSiteDomain = escapeHtml(siteDomain || "websnomadas.com");
   const name = escapeHtml(formData.name || "Sin nombre");
   const email = escapeHtml(formData.email || "Sin email");
   const telefono = escapeHtml(formData.telefono || "No facilitado");
   const message = escapeHtml(normalizeMessage(formData.message));
 
-  const subject = `[${siteName || "NomadWebs"}] Nuevo mensaje de contacto`;
+  const subject = `[${siteName || "websnomadas"}] Nuevo mensaje de contacto`;
 
   const text = [
-    `Nuevo mensaje de contacto para ${siteName || "NomadWebs"}`,
-    `Web: ${siteDomain || "nomadwebs.com"}`,
+    `Nuevo mensaje de contacto para ${siteName || "websnomadas"}`,
+    `Web: ${siteDomain || "websnomadas.com"}`,
     `Nombre: ${formData.name || "Sin nombre"}`,
     `Email: ${formData.email || "Sin email"}`,
     `Telefono: ${formData.telefono || "No facilitado"}`,
@@ -90,19 +90,19 @@ function buildContactAutoReplyTemplate({
   siteDomain,
   formData = {},
 }) {
-  const safeSiteName = escapeHtml(siteName || "NomadWebs");
-  const safeSiteDomain = escapeHtml(siteDomain || "nomadwebs.com");
+  const safeSiteName = escapeHtml(siteName || "websnomadas");
+  const safeSiteDomain = escapeHtml(siteDomain || "websnomadas.com");
   const name = escapeHtml(formData.name || "").trim() || "Hola";
 
-  const subject = `Hemos recibido tu solicitud para ${siteName || "NomadWebs"}`;
+  const subject = `Hemos recibido tu solicitud para ${siteName || "websnomadas"}`;
 
   const text = [
     `Hola ${formData.name || ""},`.trim(),
     "",
     "Hemos recibido tu mensaje correctamente.",
-    `Tu solicitud ha sido enviada a ${siteName || "NomadWebs"} y en breve se pondran en contacto contigo.`,
+    `Tu solicitud ha sido enviada a ${siteName || "websnomadas"} y en breve se pondran en contacto contigo.`,
     "",
-    `Este es un correo automatico enviado desde NomadWebs para ${siteDomain || "nomadwebs.com"}.`,
+    `Este es un correo automatico enviado desde websnomadas para ${siteDomain || "websnomadas.com"}.`,
     "No es necesario responder a este mensaje.",
   ].join("\n");
 
@@ -119,7 +119,7 @@ function buildContactAutoReplyTemplate({
           <div style="padding:32px;">
             <p style="margin:0 0 16px;font-size:16px;line-height:1.7;color:#2b2b2b;">Hola ${name},</p>
             <p style="margin:0 0 14px;font-size:15px;line-height:1.8;color:#333333;">Tu solicitud ha sido enviada a <strong>${safeSiteName}</strong> y en breve se pondran en contacto contigo.</p>
-            <p style="margin:0 0 14px;font-size:15px;line-height:1.8;color:#333333;">Este es un correo automatico enviado desde NomadWebs para el sitio ${safeSiteDomain}.</p>
+            <p style="margin:0 0 14px;font-size:15px;line-height:1.8;color:#333333;">Este es un correo automatico enviado desde websnomadas para el sitio ${safeSiteDomain}.</p>
             <div style="margin-top:24px;padding-top:20px;border-top:1px solid #eadfd5;font-size:12px;line-height:1.6;color:#8a776d;">
               <p style="margin:0;">No es necesario responder a este mensaje.</p>
             </div>

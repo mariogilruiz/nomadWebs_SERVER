@@ -1,0 +1,173 @@
+{
+  "header": {
+    "eyebrow": "Qué ofrecemos",
+    "h1": "Servicios de Diseño Web y Soluciones Digitales",
+    "p": "Diseñamos páginas web y aplicaciones a medida para creadores digitales, freelancers y negocios que necesitan una presencia online potente, funcional y sin complicaciones técnicas.",
+    "h2": "Servicios"
+  },
+  "services": [
+    {
+      "title": "Webs desde 30€/mes",
+      "text": "Tu presencia online activa, moderna y funcional sin invertir grandes cantidades por adelantado."
+    },
+    {
+      "title": "Apps y herramientas digitales",
+      "text": "Soluciones para gestionar clientes, procesos, reservas o contenidos desde una app adaptada a tu negocio."
+    },
+    {
+      "title": "Mantenimiento y evolucion",
+      "text": "Actualizamos tu web, la mejoramos y la mantenemos para que siempre este preparada para vender."
+    },
+    {
+      "title": "Branding y estrategia",
+      "text": "Disenamos tu marca, tono visual y mensajes para que tu presencia online te represente claro y premium."
+    },
+    {
+      "title": "E-commerce y ventas",
+      "text": "Tiendas y paginas pensadas para vender productos y servicios con una experiencia rapida y clara."
+    },
+    {
+      "title": "Soporte continuo",
+      "text": "Te ayudamos a mantener la web viva, actualizada y lista para crecer con tus necesidades."
+    }
+  ],
+
+  "includes": {
+    "eyebrow": "Qué incluye el servicio",
+    "h2": "Un plan integral pensado para lo que tu negocio necesita.",
+    "items": [
+      "Videollamadas de consultoría hasta completar tu proyecto",
+      "Mantenimiento continuo y adaptado a tus necesidades",
+      "Sitios web optimizados para SEO y velocidad de carga",
+      "Soporte continuo para tu infraestructura digital",
+      "Branding y estrategia de comunicación online",
+      "Dominio web y alojamiento hosting incluidos",
+      "Proyectos escalables preparados para el crecimiento",
+      "Diseño web responsive adaptado a pantallas móviles y ordenadores"
+    ]
+  },
+
+  "plansMonthly": {
+    "eyebrow": "Tarifas de diseño web",
+    "h2": "Planes mensuales adaptados al momento de tu negocio",
+    "description": "Elige la modalidad que mejor encaje con tus objetivos actuales. Olvídate de los servidores y el código; nosotros nos encargamos.",
+
+    "plans": [
+      {
+        "name": "Plan Presencia",
+        "subtitle": "Ideal para profesionales y pequenos negocios que necesitan existir en internet con una imagen impecable.",
+        "price": "30EUR / mes",
+        "featured": false,
+        "includes": [
+          "Sesión de arranque: 1 videollamada inicial de hasta 30 minutos.",
+          "Diseño responsivo para móvil, tablet y ordenador.",
+          "Dominio y hosting incluidos mientras mantengas la suscripción.",
+          "SEO base con estructura técnica optimizada para Google.",
+          "Certificado SSL de seguridad y copias de seguridad mensuales.",
+          "Soporte técnico preferente por correo electrónico."
+        ]
+      },
+      {
+        "name": "Plan Crecimiento",
+        "subtitle": "Perfecto para empresas en expansion que quieren delegar la gestion tecnica y actualizar su web periodicamente.",
+        "price": "60EUR / mes",
+        "featured": true,
+        "includes": [
+          "Todo lo incluido en el Plan Presencia.",
+          "Mantenimiento mensual con hasta 1 hora de modificaciones.",
+          "Soporte preferente por WhatsApp y email en menos de 24h laborables.",
+          "1 videollamada de seguimiento mensual de 20 minutos.",
+          "Optimización de SEO local para Google Business Profile."
+        ]
+      },
+      {
+        "name": "Plan Lider / Premium",
+        "subtitle": "Para empresas que buscan una transformacion digital completa, desde su identidad hasta una web totalmente a medida.",
+        "price": "99EUR / mes",
+        "featured": false,
+        "includes": [
+          "Todo lo incluido en el Plan Crecimiento.",
+          "Branding: identidad visual básica, paleta de colores y adaptación de logotipo.",
+          "Videollamadas semanales de consultoría durante el desarrollo.",
+          "Mantenimiento continuo con hasta 4 horas mensuales.",
+          "Optimización de velocidad extrema (WPO) y rendimiento Top para Core Web Vitals.",
+          "Soporte preferente 24/7 para emergencias técnicas o caídas de servidor."
+        ]
+      }
+    ],
+    "planComparison": [
+      {
+        "feature": "Sesión de arranque (30 min)",
+        "presencia": "Sí",
+        "crecimiento": "Sí",
+        "premium": "Sí"
+      },
+      {
+        "feature": "Diseño responsivo móvil y PC",
+        "presencia": "Sí",
+        "crecimiento": "Sí",
+        "premium": "Sí"
+      },
+      {
+        "feature": "Dominio y hosting incluido",
+        "presencia": "Sí",
+        "crecimiento": "Sí",
+        "premium": "Sí"
+      },
+      {
+        "feature": "Optimización SEO técnica básica",
+        "presencia": "Sí",
+        "crecimiento": "Sí",
+        "premium": "Sí"
+      },
+      {
+        "feature": "Soporte técnico posventa",
+        "presencia": "Solo email",
+        "crecimiento": "WhatsApp y email",
+        "premium": "Preferente 24h"
+      },
+      {
+        "feature": "Mantenimiento mensual incluido",
+        "presencia": "No (20€/h)",
+        "crecimiento": "1 hora / mes",
+        "premium": "4 horas / mes"
+      },
+      {
+        "feature": "Videollamadas de seguimiento",
+        "presencia": "No",
+        "crecimiento": "1 al mes (20 min)",
+        "premium": "Semanales"
+      },
+      {
+        "feature": "SEO local (Google Maps)",
+        "presencia": "No",
+        "crecimiento": "Sí",
+        "premium": "Sí"
+      },
+      {
+        "feature": "Branding y estrategia de marca",
+        "presencia": "No",
+        "crecimiento": "No",
+        "premium": "Sí"
+      },
+      {
+        "feature": "Optimización de velocidad y rendimiento Top",
+        "presencia": "Básica",
+        "crecimiento": "Avanzada",
+        "premium": "Ultra (Core Web Vitals)"
+      },
+      {
+        "feature": "Branding y estrategia de marca",
+        "presencia": "No",
+        "crecimiento": "No",
+        "premium": "Sí (Identidad básica)"
+      }
+    ]
+  },
+  "customPlan": {
+    "eyebrow": "Presupuesto a medida",
+    "h2": "Diseñamos un plan específico para tus objetivos",
+    "p": "Si tu proyecto digital requiere integraciones complejas o funcionalidades a medida, lo estudiamos de forma personalizada sin compromisos.",
+    "cta": "Hablemos"
+  }
+}
