@@ -1,7 +1,7 @@
 //-----importaciones
 const express = require("express");
 const path = require("node:path");
-const { connectMongo } = require("./src/data/mongo");
+// const { connectMongo } = require("./src/data/mongo");
 
 //-----rutas
 const { env } = require("./src/config/env");
@@ -45,7 +45,7 @@ app.use(contactRouter);
 
 async function startServer() {
   try {
-    await connectMongo();
+    // await connectMongo();
     app.listen(env.port, () => {
       console.log(`Servidor corriendo en http://localhost:${env.port}`);
     });
