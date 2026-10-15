@@ -17,34 +17,34 @@
   "sections": {
     "home": {
       "background": {
-        "src": "/assets/websnomadas/sections/home/image-paralax-home.jpeg",
+        "src": "/assets/websnomadas/sections/home/image-paralax-home.webp",
         "alt": "Fondo parallax de la home",
         "className": ""
       },
       "hero": {
         "slider": [
           {
-            "src": "/assets/websnomadas/sections/home/slider-hero-01.jpeg",
+            "src": "/assets/websnomadas/sections/home/slider-hero-01.webp",
             "alt": "Mujer meditando frente a montañas al amanecer",
             "className": "object-center"
           },
           {
-            "src": "/assets/websnomadas/sections/home/slider-hero-02.jpeg",
+            "src": "/assets/websnomadas/sections/home/slider-hero-02.webp",
             "alt": "Viajera con mochila mirando un paisaje abierto",
             "className": "object-right"
           },
           {
-            "src": "/assets/websnomadas/sections/home/slider-hero-03.jpeg",
+            "src": "/assets/websnomadas/sections/home/slider-hero-03.webp",
             "alt": "Persona trabajando de forma remota en un entorno natural",
             "className": "object-left"
           },
           {
-            "src": "/assets/websnomadas/sections/home/slider-hero-04.jpeg",
+            "src": "/assets/websnomadas/sections/home/slider-hero-04.webp",
             "alt": "Escena de viaje con sensación de libertad y movimiento",
             "className": "object-right"
           },
           {
-            "src": "/assets/websnomadas/sections/home/slider-hero-05.jpeg",
+            "src": "/assets/websnomadas/sections/home/slider-hero-05.webp",
             "alt": "Paisaje inspirador para marca personal nómada",
             "className": "object-right"
           }

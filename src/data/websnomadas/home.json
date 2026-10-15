@@ -54,31 +54,31 @@
   },
   "heroSlider": [
     {
-      "src": "/images/slider-hero-01.jpeg",
+      "src": "/images/slider-hero-01.webp",
       "alt": "Mujer meditando frente a montanas al amanecer",
       "title": "Meditación al amanecer",
       "className": "object-center"
     },
     {
-      "src": "/images/slider-hero-02.jpeg",
+      "src": "/images/slider-hero-02.webp",
       "alt": "Viajera con mochila mirando un paisaje abierto",
       "title": "Explorando el mundo",
       "className": "object-right"
     },
     {
-      "src": "/images/slider-hero-03.jpeg",
+      "src": "/images/slider-hero-03.webp",
       "alt": "Persona trabajando de forma remota en un entorno natural",
       "title": "Trabajando desde cualquier lugar",
       "className": "object-left"
     },
     {
-      "src": "/images/slider-hero-04.jpeg",
+      "src": "/images/slider-hero-04.webp",
       "alt": "Escena de viaje con sensacion de libertad y movimiento",
       "title": "Libertad en movimiento",
       "className": "object-right"
     },
     {
-      "src": "/images/slider-hero-05.jpeg",
+      "src": "/images/slider-hero-05.webp",
       "alt": "Paisaje inspirador para marca personal nomada",
       "title": "Inspiración nómada",
       "className": "object-right"
