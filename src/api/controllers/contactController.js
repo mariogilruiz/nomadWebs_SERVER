@@ -24,12 +24,40 @@ async function sendContactController(req, res) {
   const telefono = String(req.body.telefono || "").trim();
   const message = String(req.body.message || "").trim();
 
+  // Honeypot: los bots rellenan campos ocultos; respondemos OK sin enviar nada
+  if (String(req.body.website || req.body._hp || "").trim()) {
+    return res.status(200).json({ ok: true, message: "Contact email sent" });
+  }
+
+  const urlPattern =
+    /(https?:\/\/|www\.|\b[a-z0-9-]+\.(buzz|xyz|top|click|ru|cn)\b)/i;
+  if (urlPattern.test(name) || urlPattern.test(telefono)) {
+    return res.status(200).json({ ok: true, message: "Contact email sent" });
+  }
+
+  const validEmail =
+    email.length <= 254 &&
+    /^[^\s@<>,;]+@[^\s@<>,;]+\.[^\s@<>,;]{2,}$/.test(email);
+
+  if (
+    name.length > 100 ||
+    telefono.length > 30 ||
+    message.length > 5000 ||
+    /[\r\n]/.test(name)
+  ) {
+    return res.status(400).json({ ok: false, error: "Invalid fields" });
+  }
+
   if (!name || !email || !message) {
     return res.status(400).json({
       ok: false,
       error: "Missing required fields",
       details: "name, email and message are required",
     });
+  }
+
+  if (!validEmail) {
+    return res.status(400).json({ ok: false, error: "Invalid email" });
   }
 
   let siteConfig;
@@ -83,17 +111,21 @@ async function sendContactController(req, res) {
     let autoReplyInfo = null;
 
     if (siteConfig.autoReplyEnabled !== false) {
-      autoReplyInfo = await sendContactEmail({
-        siteSlug: siteConfig.siteSlug || rawSite,
-        fromName: siteConfig.fromName,
-        fromEmail: siteConfig.fromEmail,
-        toEmail: email,
-        replyToEmail: siteConfig.replyToEmail || siteConfig.toEmail,
-        subject: autoReplyTemplate.subject,
-        text: autoReplyTemplate.text,
-        html: autoReplyTemplate.html,
-      });
-      autoReplySent = true;
+      try {
+        autoReplyInfo = await sendContactEmail({
+          siteSlug: siteConfig.siteSlug || rawSite,
+          fromName: siteConfig.fromName,
+          fromEmail: siteConfig.fromEmail,
+          toEmail: email,
+          replyToEmail: siteConfig.replyToEmail || siteConfig.toEmail,
+          subject: autoReplyTemplate.subject,
+          text: autoReplyTemplate.text,
+          html: autoReplyTemplate.html,
+        });
+        autoReplySent = true;
+      } catch (autoReplyError) {
+        console.error("Auto-reply failed:", autoReplyError.message);
+      }
     }
 
     return res.status(200).json({
