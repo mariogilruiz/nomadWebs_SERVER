@@ -25,13 +25,22 @@ async function sendContactController(req, res) {
   const message = String(req.body.message || "").trim();
 
   // Honeypot: los bots rellenan campos ocultos; respondemos OK sin enviar nada
-  if (String(req.body.website || req.body._hp || "").trim()) {
+  const honeypot = String(req.body.company_fax || "").trim();
+  const isAutofill = [email, name, telefono].includes(honeypot);
+  if (honeypot && !isAutofill) {
+    console.warn(
+      "Contacto descartado: honeypot relleno",
+      req.ip,
+      JSON.stringify(String(req.body.company_fax).slice(0, 60)),
+      Object.keys(req.body),
+    );
     return res.status(200).json({ ok: true, message: "Contact email sent" });
   }
 
   const urlPattern =
     /(https?:\/\/|www\.|\b[a-z0-9-]+\.(buzz|xyz|top|click|ru|cn)\b)/i;
   if (urlPattern.test(name) || urlPattern.test(telefono)) {
+    console.warn("Contacto descartado: enlace en nombre/telefono", req.ip);
     return res.status(200).json({ ok: true, message: "Contact email sent" });
   }
 
