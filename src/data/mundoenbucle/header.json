@@ -1,0 +1,150 @@
+{
+  "brand": "MundoEnBucle",
+  "aria": {
+    "home": "Ir al inicio de Mundo en Bucle",
+    "mainNav": "Navegación principal",
+    "mobileMenu": "Menú móvil",
+    "openMenu": "Abrir menú de navegación"
+  },
+  "nav": [
+    {
+      "label": "Inicio",
+      "href": "/"
+    },
+    {
+      "label": "Blog de Viajes",
+      "href": "/blog",
+      "submenu": [
+        {
+          "label": "Albania",
+          "href": "#"
+        },
+        {
+          "label": "Los Alpes",
+          "href": "#"
+        },
+        {
+          "label": "Croacia",
+          "href": "#"
+        },
+        {
+          "label": "Costa Amalfitana",
+          "href": "#"
+        },
+        {
+          "label": "Georgia",
+          "href": "#"
+        },
+        {
+          "label": "Cruzar el mar caspio en moto",
+          "href": "#"
+        },
+        {
+          "label": "Kirguistan",
+          "href": "#"
+        },
+        {
+          "label": "Kazajistan",
+          "href": "#"
+        },
+        {
+          "label": "Pueblos Franceses",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "label": "YouTube",
+      "href": "#",
+      "submenu": [
+        {
+          "label": "Vuelta al Mundo en Moto",
+          "href": "URL_TU_CANAL_MOTO"
+        },
+        {
+          "label": "Música Relajante & Dron",
+          "href": "URL_TU_CANAL_DRON"
+        },
+        {
+          "label": "Aventuras por el Mundo (Próximamente)",
+          "href": "URL_TU_CANAL_NUEVO"
+        }
+      ]
+    },
+    {
+      "label": "Stock Video",
+      "href": "/stock-video",
+      "submenu": [
+        {
+          "label": "Riviera albanesa",
+          "href": "/stock-video/lugar=riviera-albanesa"
+        },
+        {
+          "label": "Berat, Albania",
+          "href": "/stock-video/lugar=berat-albania"
+        },
+        {
+          "label": "Dolomitas, Alpes",
+          "href": "/stock-video/lugar=dolomitas-alpes"
+        },
+        {
+          "label": "Paso Stelvio",
+          "href": "/stock-video/lugar=paso-stelvio"
+        },
+        {
+          "label": "Dubrovnik, Croacia",
+          "href": "/stock-video/lugar=dubrovnik-croacia"
+        },
+        {
+          "label": "Lagos de Plitvice",
+          "href": "/stock-video/lugar=lagos-de-plitvice"
+        },
+        {
+          "label": "Positano, Costa Amalfitana",
+          "href": "/stock-video/lugar=positano-costa-amalfitana"
+        },
+        {
+          "label": "Amalfi, Italia",
+          "href": "/stock-video/lugar=amalfi-italia"
+        },
+        {
+          "label": "Tiflis, Georgia",
+          "href": "/stock-video/lugar=tiflis-georgia"
+        },
+        {
+          "label": "Kazbegi, Georgia",
+          "href": "/stock-video/lugar=kazbegi-georgia"
+        },
+        {
+          "label": "Bakú y el mar Caspio",
+          "href": "/stock-video/lugar=baku-mar-caspio"
+        },
+        {
+          "label": "Travesía en ferry por el Caspio",
+          "href": "/stock-video/lugar=travesia-ferry-caspio"
+        },
+        {
+          "label": "Lago Issyk-Kul, Kirguistán",
+          "href": "/stock-video/lugar=lago-issyk-kul-kirguistan"
+        },
+        {
+          "label": "Cañón de Charyn, Kazajistán",
+          "href": "/stock-video/lugar=canon-de-charyn-kazajistan"
+        },
+        {
+          "label": "Pueblos de Alsacia, Francia",
+          "href": "/stock-video/lugar=pueblos-de-alsacia-francia"
+        }
+      ]
+    },
+    {
+      "label": "Edición Freelance",
+      "href": "/edicion-video"
+    },
+    {
+      "label": "Contacto",
+      "href": "/contacto"
+    }
+  ],
+  "cta": "Contratar Edición"
+}
