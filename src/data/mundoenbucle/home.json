@@ -1,0 +1,83 @@
+{
+  "site": "home",
+  "hero": {
+    "title": "Producción Audiovisual. <br> Únete a explorar el Mundo.",
+    "subtitle": "Creamos contenido visual recorriendo el planeta en una vuelta al mundo sin límites. Documentamos rutas auténticas con producciones sobre el terreno, ofrecemos una librería exclusiva de videos en stock en alta definición y ponemos a tu disposición nuestro servicio profesional de edición de video freelance.",
+    "titleShow": "Acropolis_golden_hour_4k.webm",
+    "cta": {
+      "label": "Ver Packs de Stock",
+      "href": "/stock-video"
+    },
+    "cta2": {
+      "label": "Contratar Edición",
+      "href": "/edicion-video"
+    },
+    "videoPlayer": {
+      "title": "Acrópolis_golden_hour_4k.webm",
+      "video": {
+        "src": "/assets/mundoenbucle/video/hero_mundoenbucle_2k.webm",
+        "title": "Vuelo sobre la Acrópolis"
+      },
+      "cover": {
+        "src": "/assets/mundoenbucle/sections/home/portada_video_hero_mundo_en_bucle.webp",
+
+        "alt": "Vista de la Acrópolis al atardecer"
+      },
+      "location": "Atenas · Grecia",
+      "keywords": [
+        "atenas",
+        "grecia",
+        "dron",
+        "acropolis",
+        "golden hour",
+        "4k",
+        "d-log m",
+        "10-bit",
+        "30 fps"
+      ],
+
+      "duration": "00:00:15",
+      "specs": [
+        { "label": "Perfil de color", "value": "D-Log M" },
+        { "label": "Resolución", "value": "3840 × 2160" },
+        { "label": "Profundidad de color", "value": "10-bit" },
+        { "label": "Frame Rate", "value": "30 fps" }
+      ],
+      "loop": true
+    }
+  },
+  "slider_preview": [
+    {
+      "title": "Explora una <span style=\"color: var(--secondary)\">vista previa</span> del slider de imágenes de la página de inicio, con fotografías que muestran la esencia visual de Mundo en Bucle.",
+      "image": {
+        "src": "/assets/mundoenbucle/sections/home/portada_video_hero_mundo_en_bucle.webp",
+
+        "alt": "Vista previa del slider"
+      }
+    },
+    {
+      "title": "Explora una <span style=\"color: var(--secondary)\">vista previa</span> del slider de imágenes de la página de inicio, con fotografías que muestran la esencia visual de Mundo en Bucle.",
+      "image": {
+        "src": "/assets/mundoenbucle/sections/home/portada_video_hero_mundo_en_bucle.webp",
+
+        "alt": "Vista previa del slider"
+      }
+    },
+    {
+      "title": "Explora una <span style=\"color: var(--secondary)\">vista previa</span> del slider de imágenes de la página de inicio, con fotografías que muestran la esencia visual de Mundo en Bucle.",
+      "image": {
+        "src": "/assets/mundoenbucle/sections/home/portada_video_hero_mundo_en_bucle.webp",
+
+        "alt": "Vista previa del slider"
+      }
+    },
+    {
+      "title": "Explora una <span style=\"color: var(--secondary)\">vista previa</span> del slider de imágenes de la página de inicio, con fotografías que muestran la esencia visual de Mundo en Bucle.",
+      "image": {
+        "src": "/assets/mundoenbucle/sections/home/portada_video_hero_mundo_en_bucle.webp",
+
+        "alt": "Vista previa del slider"
+      }
+    }
+  ]
+}

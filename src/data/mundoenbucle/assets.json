@@ -1,0 +1,24 @@
+{
+  "site": "mundoenbucle",
+  "domain": "www.mundoenbucle.com",
+  "home": {
+    "background": {
+      "src": "",
+      "alt": "",
+      "className": ""
+    },
+    "hero": {
+      "video": {
+        "src": "/assets/mundoenbucle/video/hero_mundoenbucle_2k.webm",
+        "title": "Video hero Mundo en Bucle de grecia al atardecer como muestra de la belleza del lugar para videos de stock y para ediciones",
+
+        "className": ""
+      },
+      "video_cover": {
+        "src": "/assets/mundoenbucle/sections/home/portada_video_hero_mundo_en_bucle.webp",
+        "alt": "Portada Mundo en Bucle",
+        "className": ""
+      }
+    }
+  }
+}
